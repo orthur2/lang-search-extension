@@ -1,1 +1,1 @@
-# zig-search-extension
+# lang-search-extension
